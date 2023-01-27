@@ -26,7 +26,7 @@
 :small_orange_diamond: **code > copiar a URL**
 
 ### Fazer a conexão do repositório local com o repositório remoto 
-:small_blue_diamond:comando: git remote add origin <colar o link copiado>
+:small_blue_diamond:comando: git remote add origin (colar o link copiado)
 
 ### Mover os commits do repositório atual para o repositório remoto
 :small_blue_diamond:comando: git push -u origin main
